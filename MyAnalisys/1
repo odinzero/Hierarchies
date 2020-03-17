@@ -1,0 +1,16 @@
+
+  <?php
+    } else { ?>
+      <?=  Html::beginForm(['/menutest/countries2'], 'post', ['id' => "menu-tree-jquery-form"]) ?>
+      <?php 
+           Yii::$app->MyMenu::wiget([
+            'items' => $tree,
+            'options' => ['id' => 'main-menu-jquery', 'class' => 'navbar'],
+            'encodeLabels' => false,
+            'activateParents' => true,
+            'activeCssClass' => 'active',
+            'linkTemplate' => '<a href="{url}" id="_{id}" class="btn btn-info" style="display: {display};" >{label}</a>',
+        ]);
+      ?>
+       <?=  Html::endForm(); ?>
+    <?php } ?>

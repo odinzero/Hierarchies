@@ -1,0 +1,37 @@
+https://gabi.dev/tag/materialized-path/ !!!!!!!!!!!!!!!!!!!!
+
+http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/ !!!!
+
+https://www.sql.ru/forum/1044678/kak-postrot-materialized-path-po-adjacency-list  !!
+
+https://devacademy.ru/article/nested-set !!
+
+http://www.opennet.ru/docs/RUS/hierarchical_data/ !!
+
+https://gist.github.com/codedokode/10539720#4-materialized-path !!
+
+https://habr.com/ru/post/188118/
+
+http://www.ibase.ru/files/articles/programming/dbmstrees/sqltrees.html
+
+https://habr.com/ru/post/153861/
+
+https://pastebin.com/QrcJgwrB
+https://pastebin.com/Py6i99tJ
+
+https://habr.com/ru/post/138947/
+
+https://wojnowski.net.pl/main/index/converting-tree-to-correct-html-list-in-php
+
+https://stackoverflow.com/questions/27097529/generating-a-tree-from-nested-set
+
+https://github.com/Rundiz/nested-set
+
+https://dba.stackexchange.com/questions/89051/stored-procedure-to-update-an-adjacency-model-to-nested-sets-model
+
+https://stackoverflow.com/questions/4048151/what-are-the-options-for-storing-hierarchical-data-in-a-relational-database
+
+
+===================== https://github.com/Eduard-Rudko/prestashop-test/tree/master/src/test/java/pages =============
+
+https://code.i-harness.com/ru/docs/yii~2.0/yii-db-querytrait
